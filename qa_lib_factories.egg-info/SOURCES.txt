@@ -1,0 +1,8 @@
+README.md
+setup.py
+qa-lib-factories/__init__.py
+qa-lib-factories/operacoes.py
+qa_lib_factories.egg-info/PKG-INFO
+qa_lib_factories.egg-info/SOURCES.txt
+qa_lib_factories.egg-info/dependency_links.txt
+qa_lib_factories.egg-info/top_level.txt
